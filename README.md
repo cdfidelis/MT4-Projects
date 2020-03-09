@@ -3,7 +3,7 @@ MetaTrader MQL4 Forex Trading Robots
 
 Some MT4 Projects I have worked on and some I'm still working on 
 
-Hi guys checkout this new robot I've been working on,  
+Hi guys checkout my new robot,  
 Name: H4 ENGULF STRATEGY
 Currency Pair: EURUSD 
 -Over 400% in just 2years 
