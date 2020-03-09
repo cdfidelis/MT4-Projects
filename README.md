@@ -1,5 +1,6 @@
 # MT4-Projects
-MT4 Projects
+MetaTrader mql4 Projects
+Forex Trading Robots
 
 Some MT4 Projects I have worked on and some I'm still working on 
 
