@@ -32,7 +32,7 @@ Timeframe: H1
 
 Year: 2017-2018
 
--Over 400% in just 2years 
+-Over 400% in just 2years  
 
 -Less than 18% drawdown -Its based on candlestick patterns, engulf and vibration studies 
 
