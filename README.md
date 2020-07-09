@@ -6,7 +6,8 @@ Some MT4 Projects I have worked on and some I'm still working on
 Hi guys checkout my new robots,  
 
 Name: H4 ENGULF STRATEGY;
-Currency Pair: EURUSD only; 
+Currency Pair: EURUSD only;
+
 Timeframe: H4
 Year: 2017-present
 -Over 400% in just 4years 
