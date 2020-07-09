@@ -5,8 +5,8 @@ Some MT4 Projects I have worked on and some I'm still working on
 
 Hi guys checkout my new robots,  
 
-
 Name: H4 ENGULF STRATEGY;
+Project Year: 2018;
 Currency Pair: EURUSD only;
 Period/Timeframe: H4;
 Year: 2017-present;
@@ -16,6 +16,7 @@ Year: 2017-present;
 
 
 Name: FWD ENGULF MORNING STAR STRATEGY;
+Project Year: 2019;
 Currency Pair: EURUSD only;
 Period/Timeframe: H1;
 Year: 2017-2018;
@@ -26,6 +27,7 @@ The large sl is due to manipulation I think it has potential.
 
 
 Name: Average Burst;
+Project Year: 2020;
 Currency Pair: EURUSD only; 
 Period/Timeframe: null;
 Year: 2013-present;
