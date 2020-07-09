@@ -8,7 +8,7 @@ Hi guys checkout my new robots,
 
 Name: H4 ENGULF STRATEGY;
 Currency Pair: EURUSD only;
-Timeframe: H4;
+Period/Timeframe: H4;
 Year: 2017-present;
 -Over 400% in just 4years; 
 -Less than 18% drawdown;
@@ -17,7 +17,7 @@ Year: 2017-present;
 
 Name: FWD ENGULF MORNING STAR STRATEGY;
 Currency Pair: EURUSD only;
-Timeframe: H1;
+Period/Timeframe: H1;
 Year: 2017-2018;
 -Over 400% in just 2years;  
 -Less than 18% drawdown -Its based on candlestick patterns, engulf and vibration studies; 
@@ -27,7 +27,7 @@ The large sl is due to manipulation I think it has potential.
 
 Name: Average Burst;
 Currency Pair: EURUSD only; 
-Timeframe: H4;
+Period/Timeframe: null;
 Year: 2013-present;
 -Over 400% in just 8years; 
 -Its based on off a strategy that models price movements as though they happen only in bursts hereby removing 
