@@ -4,7 +4,7 @@ MetaTrader MQL4 Forex Trading Robots
 Some MT4 Projects I have worked on and some I'm still working on 
 
 Hi guys checkout my new robot,  
-Name: H4 ENGULF STRATEGY;
+Name: FWD ENGULF MORNING STAR STRATEGY;
 Currency Pair: EURUSD; 
 -Over 400% in just 2years 
 -Less than 18% drawdown -Its based on candlestick patterns, engulf and vibration studies 
