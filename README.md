@@ -35,6 +35,6 @@ unwanted noise(volatilty) and making the market look like it has only two places
 
 If you have any ideas or functions (reversal detector, trend detector etc) that can improve it's profitability do share. 
 
-Look at images in the project for more details
+Look at images in the project for more details 
 
 Note: Set your MT4 with the right parameters and timeframe else you wouldn't see the same result
