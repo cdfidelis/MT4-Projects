@@ -1,5 +1,5 @@
-﻿
-input double TakeProfit    =550;
+
+input double TakeProfit    =750;
 input double StopOut       =250;
 input double Lots          =0.10;
 input double TrailingStop  =0;
@@ -70,7 +70,7 @@ rsi = iRSI(NULL,0,14,PRICE_CLOSE,0);
          ){
          //sellnow = 1;
           st_S =   iHigh(NULL,0, i);
-          placesellord(250,550); 
+          placesellord(StopOut,TakeProfit); 
           s_hiside = iTime(NULL,PERIOD_M1,0) + (240*60);
          }
          
@@ -86,7 +86,7 @@ rsi = iRSI(NULL,0,14,PRICE_CLOSE,0);
          ){
         // buynow=1;
    st_B = iLow(NULL,0, i);
-   placebuyord(250,550);
+   placebuyord(StopOut,TakeProfit);
    b_hiside = iTime(NULL,PERIOD_M1,0) + (240*60);
 
          }
