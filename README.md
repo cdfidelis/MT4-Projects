@@ -4,7 +4,7 @@ MetaTrader MQL4 Forex Trading Robots
 Some MT4 Projects I have worked on and some I'm still working on 
 
 Hi guys checkout my new robots,  
-Inital account size: $10000
+Inital account size for test: $10000
 
 Name: H4 ENGULF STRATEGY;
 Project Year: 2018;
