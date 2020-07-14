@@ -510,30 +510,7 @@ return fwd_fall_val;
 
 
 
-// Martingle Function
-void DMartingale(int tick, double opening_Pr, double executn_Pr, int general_TP)
-{  
-   //Print("Array_cnt: ", array_cnt);
-   //Print("mBatch.tick_nm: ",mBatch[array_cnt].tick_nm);
-   mBatch[array_cnt+1].tick_nm= array_cnt+1;
-   mBatch[array_cnt+1].openingPr= opening_Pr;
-   mBatch[array_cnt+1].executnPr= executn_Pr;
-   mBatch[array_cnt+1].gen_TP= general_TP;
-   array_cnt= array_cnt +1;
-   
-   if(array_cnt>=4999){array_cnt=0; 
-   for (int hht=0; hht<=4000; hht++){
-   resetVar(hht);
-   }
-   rst_var=1;
-   } 
-   if(rst_var==1 && array_cnt>=3000){ 
-   for (hht=4000; hht<=4999; hht++){
-   resetVar(hht);    
-   }
-   rst_var=0;
-   } 
-}
+
 
 
 void Mtrade_tracker()
